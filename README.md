@@ -33,7 +33,7 @@
 
 #### **Business Intelligence & Reporting**   ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)  &nbsp;&nbsp; ![SAP Crystal Reports](https://img.shields.io/badge/-SAP%20Crystal%20Reports-333?style=flat&logo=sap)  &nbsp;&nbsp; ![Microsoft SSRS](https://img.shields.io/badge/-SQL%20Server%20Reporting%20Services-333?style=flat&logo=microsoftsqlserver)  
 
-#### **Cloud & Infrastructure**  ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
+#### **Cloud & Infrastructure**  ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure) &nbsp;&nbsp;  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops) &nbsp;&nbsp; ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
 
 #### **Database & Storage**  ![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  &nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  &nbsp;&nbsp; ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
 
