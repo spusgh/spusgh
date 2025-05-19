@@ -45,7 +45,8 @@
 
 ##### **Financial & Enterprise Systems**  ![SimCorp Dimensions](https://img.shields.io/badge/-SimCorp%20Dimensions-333?style=flat&logo=simcorp)  
 
-##### **Frontend Development**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  &nbsp;&nbsp; ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)  &nbsp;&nbsp; ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)  
+##### **Frontend Development**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  &nbsp;&nbsp; ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)  &nbsp;&nbsp; ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)  &nbsp;&nbsp;  ![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)  
+
 
 ##### **Security & Identity Management**  ![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)  
 
