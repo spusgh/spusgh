@@ -81,6 +81,15 @@
 ✔ Scalable cloud solutions for enterprise workloads  
 ✔ Expertise in AWS Lambda, EC2, RDS, and S3  
 
+### **Artificial Intelligence & Machine Learning**  
+![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure)  
+✔ AI-powered cognitive services for speech, vision, and language processing  
+✔ Integration with Azure Bot Services and AI model deployment  
+
+![Azure ML](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoftazure)  
+✔ Scalable machine learning models deployed with AutoML  
+✔ MLOps integration with Azure DevOps for automated workflows  
+
 ### **DevOps & CI/CD**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
 ✔ Containerized deployments for scalable apps  
@@ -102,6 +111,10 @@
 
 ![SAP Crystal Reports](https://img.shields.io/badge/-SAP%20Crystal%20Reports-333?style=flat&logo=sap)  
 ✔ Enterprise reporting solution for dynamic & drill-down business insights  
+
+![Microsoft SSRS](https://img.shields.io/badge/-SQL%20Server%20Reporting%20Services-333?style=flat&logo=microsoftsqlserver)  
+✔ Interactive and paginated reporting for business intelligence  
+✔ Supports customizable data models and visualizations  
 
 ### **Big Data & Distributed Computing**  
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)  
