@@ -20,7 +20,7 @@
       🤖 Currently tinkering with **LLMs, AI ops & edge computing**  <br/>
 
 
-
+<br/><br/>
 ## 🛠 Tech Stack  
 
 ##### **API & Middleware**  [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)](https://swagger.io/) &nbsp;&nbsp; [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)](https://www.postman.com/) 
@@ -49,7 +49,7 @@
 
 ##### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)](https://www.cyberark.com/)  
 
-
+<br/><br/>
 
 ## 📢 Latest Projects  
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_.NETAspire">.NET Aspire - Claude - GitHub Copilot - MS SQL - Dockrs - Redis - API Swagger : Aspire Mortgage</a><br/>
@@ -64,12 +64,12 @@
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20SSRS">Reports : MS SSRS</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/SAP%20Crystal%20Reports">Reports : SAP Crystal Reports</a><br/>
 
-
+<!---
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spusgh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spusgh&layout=compact&theme=radical)
 
-<!---
+
 spusgh/spusgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
