@@ -23,124 +23,40 @@
 
 ## 🛠 Tech Stack  
 ### **Frontend Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-✔ Component-driven UI design with hooks & context API  
-✔ Optimized for PWA experiences with Service Workers  
-✔ Integrated with Redux, Zustand, and GraphQL for state management  
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)  
-✔ Component-based architecture for scalable UI  
-✔ RxJS for state management & reactive programming  
-✔ Optimized performance using lazy loading & Ahead-of-Time (AOT) compilation  
-
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)  
-✔ WebAssembly-driven SPA framework for rich UI development  
-✔ Supports real-time SignalR communication  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  &nbsp;&nbsp; ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)  &nbsp;&nbsp; ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)  
 
 ### **Backend Development & APIs**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-✔ Asynchronous, event-driven architecture  
-✔ REST & GraphQL API development with Express.js  
-✔ Scalable microservices and worker threads  
-
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)  
-✔ Cross-platform cloud-native development  
-✔ Entity Framework Core for optimized database interaction  
-
-![.NET Aspire](https://img.shields.io/badge/-.NET%20Aspire-333?style=flat&logo=dotnet)  
-✔ Simplifies distributed cloud-native service orchestration  
-✔ Dev-time orchestration for multi-service applications  
-
-![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat&logo=dotnet)  
-✔ Multi-platform development for iOS, Android, macOS, and Windows  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  &nbsp;&nbsp; ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)  &nbsp;&nbsp; ![.NET Aspire](https://img.shields.io/badge/-.NET%20Aspire-333?style=flat&logo=dotnet)  &nbsp;&nbsp; ![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat&logo=dotnet)  
 
 ### **Database & Storage**  
-![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)  
-✔ Globally distributed NoSQL database optimized for massive-scale applications  
-✔ Supports MongoDB, Cassandra, Gremlin & SQL APIs  
-✔ Built-in replication, security, and performance tuning  
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-✔ NoSQL, document-based flexible schema  
-✔ Aggregation pipeline for optimized queries  
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-✔ ACID-compliant relational database  
-✔ Advanced indexing & performance tuning  
-
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
-✔ Enterprise-grade database with high scalability  
-✔ Optimized for transactional and analytical workloads  
+![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  &nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  &nbsp;&nbsp; ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
 
 ### **Cloud & Infrastructure**  
-![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)  
-✔ Cloud-based services for hosting, networking, and AI integrations  
-✔ Serverless computing with Azure Functions  
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
-✔ Scalable cloud solutions for enterprise workloads  
-✔ Expertise in AWS Lambda, EC2, RDS, and S3  
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
 
 ### **Artificial Intelligence & Machine Learning**  
-![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure)  
-✔ AI-powered cognitive services for speech, vision, and language processing  
-✔ Integration with Azure Bot Services and AI model deployment  
-
-![Azure ML](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoftazure)  
-✔ Scalable machine learning models deployed with AutoML  
-✔ MLOps integration with Azure DevOps for automated workflows  
+![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![Azure ML](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoftazure)  
 
 ### **DevOps & CI/CD**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-✔ Containerized deployments for scalable apps  
-✔ Works seamlessly with Kubernetes  
-
-![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)  
-✔ Automated CI/CD pipelines  
-✔ Integration with GitHub Actions and Kubernetes  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  &nbsp;&nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)  
 
 ### **Security & Identity Management**  
 ![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)  
-✔ Privileged Access Management (PAM) for secure system authentication  
-✔ Credential vaulting and access control  
 
 ### **Business Intelligence & Reporting**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)  
-✔ Advanced data visualization & analytics for enterprise solutions  
-✔ Supports DAX and Power Query for ETL transformations  
-
-![SAP Crystal Reports](https://img.shields.io/badge/-SAP%20Crystal%20Reports-333?style=flat&logo=sap)  
-✔ Enterprise reporting solution for dynamic & drill-down business insights  
-
-![Microsoft SSRS](https://img.shields.io/badge/-SQL%20Server%20Reporting%20Services-333?style=flat&logo=microsoftsqlserver)  
-✔ Interactive and paginated reporting for business intelligence  
-✔ Supports customizable data models and visualizations  
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)  &nbsp;&nbsp; ![SAP Crystal Reports](https://img.shields.io/badge/-SAP%20Crystal%20Reports-333?style=flat&logo=sap)  &nbsp;&nbsp; ![Microsoft SSRS](https://img.shields.io/badge/-SQL%20Server%20Reporting%20Services-333?style=flat&logo=microsoftsqlserver)  
 
 ### **Big Data & Distributed Computing**  
-![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)  
-✔ Distributed data processing using MapReduce and HDFS  
-
-![Hive](https://img.shields.io/badge/-Hive-333?style=flat&logo=apachehive)  
-✔ SQL-like querying layer for big data processing using Hadoop ecosystem  
+![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)  &nbsp;&nbsp; ![Hive](https://img.shields.io/badge/-Hive-333?style=flat&logo=apachehive)  
 
 ### **Enterprise Data Management**  
-![Informatica MDM](https://img.shields.io/badge/-Informatica%20MDM-333?style=flat&logo=informatica)  
-✔ Master Data Management solution for data consolidation & governance  
-
-![Informatica Data Quality](https://img.shields.io/badge/-Informatica%20Data%20Quality-333?style=flat&logo=informatica)  
-✔ Ensures data consistency, profiling, and cleansing for enterprise pipelines  
+![Informatica MDM](https://img.shields.io/badge/-Informatica%20MDM-333?style=flat&logo=informatica)  &nbsp;&nbsp; ![Informatica Data Quality](https://img.shields.io/badge/-Informatica%20Data%20Quality-333?style=flat&logo=informatica)  
 
 ### **API & Middleware**  
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)  
-✔ API documentation & client SDK generation  
-
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
-✔ API testing, debugging, and automation  
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)  &nbsp;&nbsp; ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 ### **Financial & Enterprise Systems**  
 ![SimCorp Dimensions](https://img.shields.io/badge/-SimCorp%20Dimensions-333?style=flat&logo=simcorp)  
-✔ Investment and asset management platform  
-✔ Supports financial risk analysis & reporting  
 
 
 
