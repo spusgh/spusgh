@@ -23,33 +23,31 @@
 
 ## 🛠 Tech Stack  
 
-##### **API & Middleware**  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)  &nbsp;&nbsp; ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+##### **API & Middleware**  [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)](https://swagger.io/) &nbsp;&nbsp; [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)](https://www.postman.com/) 
 
-##### **Application Servers & Middleware**  &nbsp;&nbsp;  ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-333?style=flat&logo=apachetomcat)  &nbsp;&nbsp;  ![IBM WebSphere](https://img.shields.io/badge/-IBM%20WebSphere-1F70C1?style=flat&logo=ibm)  &nbsp;&nbsp;  ![IIS](https://img.shields.io/badge/-IIS-0078D4?style=flat&logo=microsoft)  
+##### **Application Servers & Middleware**  &nbsp;&nbsp; [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-333?style=flat&logo=apachetomcat)](https://tomcat.apache.org/) &nbsp;&nbsp; [![IBM WebSphere](https://img.shields.io/badge/-IBM%20WebSphere-1F70C1?style=flat&logo=ibm)](https://www.ibm.com/cloud/websphere-application-server)  &nbsp;&nbsp; [![IIS](https://img.shields.io/badge/-IIS-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/windows-server/iis/)  
 
-##### **Artificial Intelligence & Machine Learning**  ![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![Azure ML](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoftazure)  
+##### **Artificial Intelligence & Machine Learning** [![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/applied-ai-services/)  &nbsp;&nbsp;  [![Azure ML](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/machine-learning/)
 
-##### **Backend Development & APIs**  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  &nbsp;&nbsp; ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)  &nbsp;&nbsp; ![.NET Aspire](https://img.shields.io/badge/-.NET%20Aspire-333?style=flat&logo=dotnet)  &nbsp;&nbsp; ![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat&logo=dotnet)  
+##### **Backend Development & APIs**  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)](https://nodejs.org/)  &nbsp;&nbsp; [![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/en-us/)  &nbsp;&nbsp; [![.NET Aspire](https://img.shields.io/badge/-.NET%20Aspire-333?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/aspire/)  &nbsp;&nbsp; [![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/maui/)   
 
 ##### **Big Data & Distributed Computing**  ![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)  &nbsp;&nbsp; ![Hive](https://img.shields.io/badge/-Hive-333?style=flat&logo=apachehive)  
 
-##### **Business Intelligence & Reporting**   ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)  &nbsp;&nbsp; ![SAP Crystal Reports](https://img.shields.io/badge/-SAP%20Crystal%20Reports-333?style=flat&logo=sap)  &nbsp;&nbsp; ![Microsoft SSRS](https://img.shields.io/badge/-SQL%20Server%20Reporting%20Services-333?style=flat&logo=microsoftsqlserver)  
+##### **Business Intelligence & Reporting**   [![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)](https://powerbi.microsoft.com/en-us/)  &nbsp;&nbsp; [![SAP Crystal Reports](https://img.shields.io/badge/-SAP%20Crystal%20Reports-333?style=flat&logo=sap)](https://www.sap.com/products/technology-platform/crystal-reports.html) &nbsp;&nbsp; [![Microsoft SSRS](https://img.shields.io/badge/-SQL%20Server%20Reporting%20Services-333?style=flat&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/reporting-services/)    
 
-##### **Cloud & Infrastructure**  ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure) &nbsp;&nbsp;  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops) &nbsp;&nbsp; ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
+##### **Cloud & Infrastructure**  [![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)](https://azure.microsoft.com/en-us/) &nbsp;&nbsp; [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/products/devops/)  &nbsp;&nbsp; [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)](https://aws.amazon.com/)  
 
-##### **Database & Storage**  ![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)  &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  &nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  &nbsp;&nbsp; ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
+##### **Database & Storage**  [![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)](https://azure.microsoft.com/en-us/products/cosmos-db/)  &nbsp;&nbsp; [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)  &nbsp;&nbsp; [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)  &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)](https://www.oracle.com/database/)   
 
-##### **DevOps & CI/CD**  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  &nbsp;&nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)  
+##### **DevOps & CI/CD** [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)  &nbsp;&nbsp; [![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)](https://www.jenkins.io/)  
 
 ##### **Enterprise Data Management**  ![Informatica MDM](https://img.shields.io/badge/-Informatica%20MDM-333?style=flat&logo=informatica)  &nbsp;&nbsp; ![Informatica Data Quality](https://img.shields.io/badge/-Informatica%20Data%20Quality-333?style=flat&logo=informatica)  
 
 ##### **Financial & Enterprise Systems**  ![SimCorp Dimensions](https://img.shields.io/badge/-SimCorp%20Dimensions-333?style=flat&logo=simcorp)  
 
-##### **Frontend Development**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  &nbsp;&nbsp; ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)  &nbsp;&nbsp; ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)  &nbsp;&nbsp;  ![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)  
+##### **Frontend Development**  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://react.dev/)  &nbsp;&nbsp; [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)  &nbsp;&nbsp; [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) &nbsp;&nbsp; [![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)](https://www.telerik.com/)   
 
-
-##### **Security & Identity Management**  ![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)  
-
+##### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)](https://www.cyberark.com/)  
 
 
 
