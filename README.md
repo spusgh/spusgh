@@ -17,7 +17,7 @@
       🚀 My personal mantra: "Write code like you're explaining it to your future self"<br/>
       🧐 I automate <br/>
       🎯 Favorite language? .NET Core - MAUI - Aspire, NodeJS, Angular, React, MS SQL, Azure CosmosDB, Azure, AWS <br/>
-      🤖 Currently tinkering with **LLMs, AI ops & edge computing**  <br/>
+      🤖 Currently tinkering with **Blockchain, AI, ML, Gen AI, LLMs, SLM, AI ops & edge computing**  <br/>
 
 
 <br/><br/>
