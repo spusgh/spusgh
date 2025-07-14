@@ -23,7 +23,7 @@
 <br/><br/>
 ## 🛠 Tech Stack  
 
-#### ** AI Framework / Agentic Coding** [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain)
+#### **AI Framework / Agentic Coding**  [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain)
 
 #### **API & Middleware**  [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)](https://swagger.io/) &nbsp;&nbsp; [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)](https://www.postman.com/) 
 
