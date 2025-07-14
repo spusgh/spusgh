@@ -49,7 +49,7 @@
 
 #### **Frontend Development**  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://react.dev/)  &nbsp;&nbsp; [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)  &nbsp;&nbsp; [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) &nbsp;&nbsp; [![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)](https://www.telerik.com/)   
 
-#### **Runtime Environments** [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain)
+#### **Runtime Environments** [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/nodejs/node) 
 
 #### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)](https://www.cyberark.com/)  
 
