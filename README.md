@@ -56,12 +56,14 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_MauiApp">.NET MAUI - MS SQL : Fin Tech MauiApp</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/Claude%20Sonnet">Claude Sonnet : Investment App</a><br/>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases - MS SQL, MongoDB, Azure CosmosDB</a><br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">SecureFlowAI: Security Records Management</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/BakeryDelights">Lovable : Bakery Delights</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/Charity">Lovable : Charity App</a>
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>   
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20Power%20BI">Reports : MS Power BI</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20SSRS">Reports : MS SSRS</a><br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Node.js - Multi-Agent AI Securities Management PWA</a> <br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/SAP%20Crystal%20Reports">Reports : SAP Crystal Reports</a><br/>
 
 <!---
