@@ -23,6 +23,8 @@
 <br/><br/>
 ## 🛠 Tech Stack  
 
+#### ** AI Framework / Agentic Coding** [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain)
+
 #### **API & Middleware**  [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)](https://swagger.io/) &nbsp;&nbsp; [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)](https://www.postman.com/) 
 
 #### **Application Servers & Middleware**  &nbsp;&nbsp; [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-333?style=flat&logo=apachetomcat)](https://tomcat.apache.org/) &nbsp;&nbsp; [![IBM WebSphere](https://img.shields.io/badge/-IBM%20WebSphere-1F70C1?style=flat&logo=ibm)](https://www.ibm.com/cloud/websphere-application-server)  &nbsp;&nbsp; [![IIS](https://img.shields.io/badge/-IIS-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/windows-server/iis/)  
@@ -47,6 +49,8 @@
 
 #### **Frontend Development**  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://react.dev/)  &nbsp;&nbsp; [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)  &nbsp;&nbsp; [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) &nbsp;&nbsp; [![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)](https://www.telerik.com/)   
 
+#### **Runtime Environments** [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain)
+
 #### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)](https://www.cyberark.com/)  
 
 <br/><br/>
@@ -56,7 +60,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_MauiApp">.NET MAUI - MS SQL : Fin Tech MauiApp</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/Claude%20Sonnet">Claude Sonnet : Investment App</a><br/>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases - MS SQL, MongoDB, Azure CosmosDB</a><br/>
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">SecureFlowAI: Security Records Management</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">LangChainApps : SecureFlowAI - Security Records Management</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/BakeryDelights">Lovable : Bakery Delights</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/Charity">Lovable : Charity App</a>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>   
