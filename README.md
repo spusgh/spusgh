@@ -47,11 +47,11 @@
 
 #### **Frontend Development**  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://react.dev/)  &nbsp;&nbsp; [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)  &nbsp;&nbsp; [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) &nbsp;&nbsp; [![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)](https://www.telerik.com/)   
 
-#### **LLM - AI Framework / Agentic Coding**  [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain) &nbsp;&nbsp; [![Claude Sonnet](https://custom.typingmind.com/tools/model-icons/claude/claude.webp)](https://claude.ai/) &nbsp;&nbsp; [![Ollama](https://custom.typingmind.com/tools/model-icons/ollama/ollama.webp)](https://ollama.com/)
+#### **LLM - AI Framework / Agentic Coding**  [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain) &nbsp;&nbsp; [![Claude Sonnet](https://img.shields.io/badge/-claude-333?style=flat&logo=claude&logoColor=orange)](https://claude.ai/) &nbsp;&nbsp; [![Ollama](https://img.shields.io/badge/-ollama-000000?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 
 #### **Runtime Environments** [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/nodejs/node) 
 
-#### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark)](https://www.cyberark.com/)  
+#### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark&logoColor=white)](https://www.cyberark.com/)  
 
 <br/><br/>
 
