@@ -62,6 +62,7 @@
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases - MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecuritiesAI">LangChain : SecuritiesAI - Managing Securities Records</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">LangChain : SecureFlowAI - Security Records Management</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LLM/LLM2MSSQL">LLM : LLM MS SQL Integration - TinyLlama + MS SQL Integration</a> <br/>      
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/BakeryDelights">Lovable : Bakery Delights</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/Charity">Lovable : Charity App</a>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>   
