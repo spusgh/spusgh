@@ -37,7 +37,7 @@
 
 #### **Cloud & Infrastructure**  [![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)](https://azure.microsoft.com/en-us/) &nbsp;&nbsp; [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/products/devops/)  &nbsp;&nbsp; [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)](https://aws.amazon.com/)  
 
-#### **Data Models**  ![Mermaid](https://img.shields.io/badge/-Mermaid-333?style=flat&logo=Mermaid) 
+#### **Data Models**  [![Mermaid](https://img.shields.io/badge/-Mermaid-333?style=flat&logo=Mermaid)](https://mermaid.js.org/) &nbsp;&nbsp; 
 
 #### **Database & Storage**  [![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)](https://azure.microsoft.com/en-us/products/cosmos-db/)  &nbsp;&nbsp; [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)  &nbsp;&nbsp; [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)  &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)](https://www.oracle.com/database/)   
 
