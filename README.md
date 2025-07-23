@@ -37,6 +37,8 @@
 
 #### **Cloud & Infrastructure**  [![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)](https://azure.microsoft.com/en-us/) &nbsp;&nbsp; [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/products/devops/)  &nbsp;&nbsp; [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)](https://aws.amazon.com/)  
 
+#### **Data Models**  ![Mermaid](https://img.shields.io/badge/-Mermaid-333?style=flat&logo=Mermaid) 
+
 #### **Database & Storage**  [![Azure CosmosDB](https://img.shields.io/badge/-Azure%20CosmosDB-333?style=flat&logo=microsoftazure)](https://azure.microsoft.com/en-us/products/cosmos-db/)  &nbsp;&nbsp; [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)  &nbsp;&nbsp; [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)  &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)](https://www.oracle.com/database/)   
 
 #### **DevOps & CI/CD** [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)  &nbsp;&nbsp; [![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)](https://www.jenkins.io/)  
@@ -58,6 +60,7 @@
 ## 📢 Latest Projects  
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_.NETAspire">.NET Aspire - Claude - GitHub Copilot - MS SQL - Dockrs - Redis - API Swagger : Aspire Mortgage</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_MauiApp">.NET MAUI - MS SQL : Fin Tech MauiApp</a></li>
+<li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases - MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/Claude%20Sonnet">LLM : Claude Sonnet : Investment App</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecuritiesAI">LLM : LangChain : SecuritiesAI - Managing Securities Records</a> <br/>
