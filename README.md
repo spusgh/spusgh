@@ -71,6 +71,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>   
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Node.js - Multi-Agent AI Securities Management PWA</a> <br/>
+<li><a href="https://github.com/spusgh/PaaS-Scripts">PAAS - Blend with SAAS</a> <br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20Power%20BI">Reports : MS Power BI</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20SSRS">Reports : MS SSRS</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/SAP%20Crystal%20Reports">Reports : SAP Crystal Reports</a><br/>
