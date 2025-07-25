@@ -62,7 +62,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_MauiApp">.NET MAUI - MS SQL : Fin Tech MauiApp</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases - MS SQL, MongoDB, Azure CosmosDB</a><br/>
-<li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS - IaCS</a> <br/>
+<li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS - IaC</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/Claude%20Sonnet">LLM : Claude Sonnet : Investment App</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecuritiesAI">LLM : LangChain : SecuritiesAI - Managing Securities Records</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">LLM : LangChain : SecureFlowAI - Security Records Management</a> <br/>
