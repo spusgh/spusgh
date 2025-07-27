@@ -60,6 +60,7 @@
 ## 📢 Latest Projects  
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_.NETAspire">.NET Aspire : Claude - GitHub Copilot - MS SQL - Dockrs - Redis - API Swagger : Aspire Mortgage</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_MauiApp">.NET MAUI : MS SQL : Fin Tech MauiApp</a></li>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/AngularRustLoanManagement"> Angular PostgreSQL Rust - Loan Search Application</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases : MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
