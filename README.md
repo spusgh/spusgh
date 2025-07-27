@@ -76,6 +76,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/GraphQLLoanRecordSearchAPI">Node.js : GraphQL Loan Record Search API</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Node.js : Multi-Agent AI Securities Management PWA</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts">PaaS : Blend with SaaS</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/RRustLoanDataAnalysis"> R Rust - Loan Portfolio Analysis & Search System</a></li>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20Power%20BI">Reports : MS Power BI</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20SSRS">Reports : MS SSRS</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/SAP%20Crystal%20Reports">Reports : SAP Crystal Reports</a><br/>
