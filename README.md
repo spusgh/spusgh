@@ -29,7 +29,7 @@
 
 #### **Artificial Intelligence & Machine Learning** [![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/applied-ai-services/)  &nbsp;&nbsp;  [![Azure ML](https://img.shields.io/badge/-Azure%20Machine%20Learning-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/machine-learning/)
 
-#### **Backend Development & APIs**  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)](https://nodejs.org/)  &nbsp;&nbsp; [![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/en-us/)  &nbsp;&nbsp; [![.NET Aspire](https://img.shields.io/badge/-.NET%20Aspire-333?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/aspire/)  &nbsp;&nbsp; [![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/maui/)   
+#### **Backend Development & APIs**  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)](https://nodejs.org/)  &nbsp;&nbsp; [![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/en-us/)  &nbsp;&nbsp; [![.NET Aspire](https://img.shields.io/badge/-.NET%20Aspire-333?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/aspire/)  &nbsp;&nbsp; [![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/maui/)  &nbsp;&nbsp; [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org) &nbsp;&nbsp; [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)](https://www.python.org/)  &nbsp;&nbsp; [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)](https://www.java.com/)  &nbsp;&nbsp; [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
 
 #### **Big Data & Distributed Computing**  ![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)  &nbsp;&nbsp; ![Hive](https://img.shields.io/badge/-Hive-333?style=flat&logo=apachehive)  
 
@@ -47,7 +47,7 @@
 
 #### **Financial & Enterprise Systems**  ![SimCorp Dimensions](https://img.shields.io/badge/-SimCorp%20Dimensions-333?style=flat&logo=simcorp)  
 
-#### **Frontend Development**  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://react.dev/)  &nbsp;&nbsp; [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)  &nbsp;&nbsp; [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) &nbsp;&nbsp; [![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)](https://www.telerik.com/)   
+#### **Frontend Development**  [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://react.dev/)  &nbsp;&nbsp; [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)  &nbsp;&nbsp; [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) &nbsp;&nbsp; [![Telerik UI](https://img.shields.io/badge/-Telerik-333?style=flat&logo=telerik)](https://www.telerik.com/) &nbsp;&nbsp; [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)  
 
 #### **LLM - AI Framework / Agentic Coding**  [![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=github&logoColor=white)](https://github.com/langchain-ai/langchain) &nbsp;&nbsp; [![Claude Sonnet](https://img.shields.io/badge/-claude-333?style=flat&logo=claude&logoColor=orange)](https://claude.ai/) &nbsp;&nbsp; [![Ollama](https://img.shields.io/badge/-ollama-000000?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 
@@ -69,8 +69,11 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LLM/LLM2MSSQL">LLM : LLM MS SQL Integration - TinyLlama + MS SQL Integration</a> <br/>      
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/BakeryDelights">Lovable : Bakery Delights</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/Charity">Lovable : Charity App</a>
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>   
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/MLPythonScikit-LearnRustLoanRecordAnalysis">ML : Python Scikit-Learn Rust - Loan Record Analysis</br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/MLRustLoanDataApp">ML : Rust - Loan Data</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a><br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/GraphQLLoanRecordSearchAPI">Node.js : GraphQL Loan Record Search API</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Node.js : Multi-Agent AI Securities Management PWA</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts">PaaS : Blend with SaaS</a> <br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20Power%20BI">Reports : MS Power BI</a><br/>
@@ -81,8 +84,4 @@
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spusgh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spusgh&layout=compact&theme=radical)
-
-
-spusgh/spusgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
