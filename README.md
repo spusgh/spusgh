@@ -62,6 +62,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_MauiApp">.NET MAUI : MS SQL : Fin Tech MauiApp</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/AngularRustLoanManagement"> Angular PostgreSQL Rust - Loan Search Application</a></li>
 <li><a href="https://github.com/spusgh/Architecture/tree/main/CustomerLoanAIPlatform">Architecture : Customer Loan AI Platform</a><br/>
+<li><a href="https://github.com/spusgh/Architecture/tree/main/DA_XYZFinancialssecurities">Data Architecture : Mortgage Lending & Servicing Data Schema</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases : MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
