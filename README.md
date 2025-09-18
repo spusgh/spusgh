@@ -59,7 +59,7 @@
 
 #### **Runtime Environments** [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/nodejs/node) 
 
-#### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark&logoColor=white)](https://www.cyberark.com/)   &nbsp; &nbsp; ![OAuth](https://img.shields.io/badge/OAuth%202.0-Authorization%20Framework-red)  &nbsp; &nbsp; ![OpenID](https://img.shields.io/badge/OpenID%20Connect-Identity%20Layer-blue)  &nbsp; &nbsp; ![SAML](https://img.shields.io/badge/SAML-XML%20Authentication-lightgrey)  &nbsp; &nbsp;
+#### **Security & Identity Management** [![CyberArk](https://img.shields.io/badge/-CyberArk-0033A0?style=flat&logo=cyberark&logoColor=white)](https://www.cyberark.com/)   &nbsp; &nbsp; ![OAuth](https://img.shields.io/badge/OAuth%202.0-Authorization%20Framework-red)  &nbsp; &nbsp; ![OpenID](https://img.shields.io/badge/OpenID%20Connect-Identity%20Layer-blue)  &nbsp; &nbsp; ![SAML](https://img.shields.io/badge/SAML-XML%20Authentication-lightgrey)&nbsp;&nbsp;&nbsp; &nbsp;![LDAP](https://img.shields.io/badge/LDAP-Directory%20Service-0052CC?style=flat&logo=ldap&logoColor=white) &nbsp; &nbsp;![SSO](https://img.shields.io/badge/SSO-Single%20Sign--On-0078D4?style=flat)
 
 
 <br/><br/>
