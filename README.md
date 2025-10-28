@@ -84,6 +84,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/MLPythonScikit-LearnRustLoanRecordAnalysis">ML : Python Scikit-Learn Rust - Loan Record Analysis</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/MLRustLoanDataApp">ML : Rust - Loan Data</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a><br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/CAD_CryptoAnalyticsDashboard">Node.js : Crypto Analytics Dashboard</a> 
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/GraphQLLoanRecordSearchAPI">Node.js : GraphQL Loan Record Search API</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Node.js : Multi-Agent AI Securities Management PWA</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts">PaaS : Blend with SaaS</a> <br/>
