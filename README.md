@@ -74,6 +74,10 @@
 <li><a href="https://github.com/spusgh/Architecture/blob/main/Integration/msteams_integration_readme.md">Architecture : Integration Architecture : Microsoft Teams integration for meeting recording, transcription, and PII profile creation</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases : MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/BioinformaticsAnalysisPlatformMVP">JavaScripts: Nodejs : Bioinformatics Analysis Platform MVP </a></li><br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/CAD_CryptoAnalyticsDashboard">Javascripts : Node.js : Crypto Analytics Dashboard</a> 
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/GraphQLLoanRecordSearchAPI">Javascripts : Node.js : GraphQL Loan Record Search API</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Javascripts : Node.js : Multi-Agent
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/Claude%20Sonnet">LLM : Claude Sonnet : Investment App</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecuritiesAI">LLM : LangChain : SecuritiesAI - Managing Securities Records</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">LLM : LangChain : SecureFlowAI - Security Records Management</a> <br/>
@@ -83,10 +87,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NoCodeAIApps/Lovable/TeleHealth">Lovable : TeleHealth</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/MLPythonScikit-LearnRustLoanRecordAnalysis">ML : Python Scikit-Learn Rust - Loan Record Analysis</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/MLRustLoanDataApp">ML : Rust - Loan Data</br/>
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a><br/>
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/CAD_CryptoAnalyticsDashboard">Node.js : Crypto Analytics Dashboard</a> 
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/GraphQLLoanRecordSearchAPI">Node.js : GraphQL Loan Record Search API</a> <br/>
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/AISecuritiesManagement">Node.js : Multi-Agent AI Securities Management PWA</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a><br/> AI Securities Management PWA</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts">PaaS : Blend with SaaS</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/RRustLoanDataAnalysis"> R Rust - Loan Portfolio Analysis & Search System</a></li>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/JSLibs">Reports : Data Visualizations JSLibraries</a><br/>
