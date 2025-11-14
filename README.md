@@ -89,6 +89,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/MLRustLoanDataApp">ML : Rust - Loan Data</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/Microsoft%20Power%20Platform">MS Power Platform</a> AI Securities Management PWA</a>
 <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/AI-PoweredDeveloperExperiencePlatform">PaaS : AI-Powered Developer Experience Platform</a> <br/>
+<li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/Self-HealingInfrastructurePlatform">PaaS : Data-Driven Feature Flag System</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/Self-HealingInfrastructurePlatform">PaaS : Self-Healing Infrastructure</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts">PaaS : Blend with SaaS</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/RRustLoanDataAnalysis"> R Rust - Loan Portfolio Analysis & Search System</a></li>
