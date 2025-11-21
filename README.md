@@ -76,6 +76,7 @@
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases : MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts/tree/main/ML-DrivenAuto-ProvisioningEngine">IaaS : ML- Driven Auto- Provisioning Engine</a><br/>
+<li><a href="https://github.com/spusgh/IaaS-Scripts/tree/main/IaCforMOpsPipelines">IaaS : IaC for ML Ops Pipelines</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LowCodeAIApps/BioinformaticsAnalysisPlatformMVP">JavaScripts: Nodejs : Bioinformatics Analysis Platform MVP </a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/CAD_CryptoAnalyticsDashboard">Javascripts : Node.js : Crypto Analytics Dashboard</a> 
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/NodejsApps/GraphQLLoanRecordSearchAPI">Javascripts : Node.js : GraphQL Loan Record Search API</a> <br/>
