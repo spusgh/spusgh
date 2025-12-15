@@ -70,6 +70,7 @@
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/.NET/WindowsAIDisable">.NET WinForms - WindowsAI Disable MVP</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/CustomerSupportBotMVP">AIaaS : Customer Support Bot MVP</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/FinancialQEModelingPA">AIaaS : Financial Quantitative Engineering - Modeling & Analytics MVP — XYZ Financials</a></li>
+ <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/GenAIRAGMVP">GenAI RAG MVP</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/TrailBlazerAIMVP">AIaaS : TrailBlazer AI MVP</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/AngularRustLoanManagement"> Angular PostgreSQL Rust - Loan Search Application</a></li>
 <li><a href="https://github.com/spusgh/Architecture/tree/main/CustomerLoanAIPlatform">Architecture : AI Solution Architecture : Customer Loan AI Platform</a><br/>
