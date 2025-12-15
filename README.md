@@ -67,6 +67,7 @@
 ## 📢 Latest Projects  
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/FinTech_.NETAspire">.NET Aspire : Claude - GitHub Copilot - MS SQL - Dockrs - Redis - API Swagger : Aspire Mortgage</a><br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/.NET/FinTech_MauiApp">.NET MAUI : MS SQL : Fin Tech MauiApp</a></li>
+ <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/.NET/WindowsAIDisable">.NET WinForms - WindowsAI Disable MVP</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/CustomerSupportBotMVP">AIaaS : Customer Support Bot MVP</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/FinancialQEModelingPA">AIaaS : Financial Quantitative Engineering - Modeling & Analytics MVP — XYZ Financials</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/TrailBlazerAIMVP">AIaaS : TrailBlazer AI MVP</a></li>
