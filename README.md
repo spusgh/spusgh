@@ -69,6 +69,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/.NET/FinTech_MauiApp">.NET MAUI : MS SQL : Fin Tech MauiApp</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/.NET/WindowsAIDisable">.NET WinForms - WindowsAI Disable MVP</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/AIDrivenDocumentIntelligencePlatformMVP">AIaaS : AI-Driven Document Intelligence Platform MVP</a></li>
+ <li><a href="https://github.com/spusgh/Architecture/blob/main/Integration/msteams_integration_readme.md">AIaaS : Architecture : Integration Architecture : Microsoft Teams integration for meeting recording, transcription, and PII profile creation</a></li>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/CustomerSupportBotMVP">AIaaS : Customer Support Bot MVP</a></li>
  <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/FinancialQEModelingPA">AIaaS : Financial Quantitative Engineering - Modeling & Analytics MVP — XYZ Financials</a></li>
  <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/GenAIRAGMVP">AIaaS : GenAI RAG MVP</a></li>
@@ -83,7 +84,6 @@
 <li><a href="https://github.com/spusgh/Architecture/tree/main/CustomerLoanAIPlatform">Architecture : AI Solution Architecture : Customer Loan AI Platform</a><br/>
 <li><a href="https://github.com/spusgh/Architecture/tree/main/DA_XYZFinancialssecurities">Architecture : Data Architecture : Mortgage Lending & Servicing Data Schema</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Architecture : Data Architecture : Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
-<li><a href="https://github.com/spusgh/Architecture/blob/main/Integration/msteams_integration_readme.md">Architecture : Integration Architecture : Microsoft Teams integration for meeting recording, transcription, and PII profile creation</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts">Databases : MS SQL, MongoDB, Azure CosmosDB</a><br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts/tree/main/ML-DrivenAuto-ProvisioningEngine">IaaS : ML- Driven Auto- Provisioning Engine</a><br/>
