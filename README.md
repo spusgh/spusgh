@@ -78,7 +78,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecuritiesAI">AIaaS : LLM : LangChain : SecuritiesAI - Managing Securities Records</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LangChainApps/SecureFlowAI">AIaaS : LLM : LangChain : SecureFlowAI - Security Records Management</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/LLM/LLM2MSSQL">AIaaS : LLM : LLM MS SQL Integration - TinyLlama + MS SQL Integration</a> <br/>      
-<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/EchoGuideAIL">AIaaS : LLM : VibeVoice : EchoGuideAI - Relationship Voice Therapy App</a> <br/>
+<li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/EchoGuideAI">AIaaS : LLM : VibeVoice : EchoGuideAI - Relationship Voice Therapy App</a> <br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AgenticCoding/MLPythonScikit-LearnRustLoanRecordAnalysis">AIaaS : ML : Python Scikit-Learn Rust - Loan Record Analysis</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/MLRustLoanDataApp">AIaaS : ML : Rust - Loan Data</br/>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/AIApps/TrailBlazerAIMVP">AIaaS : TrailBlazer AI MVP</a></li>
