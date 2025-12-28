@@ -91,7 +91,14 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/AngularRustLoanManagement"> Angular PostgreSQL Rust - Loan Search Application</a></li>
 <li><a href="https://github.com/spusgh/Architecture/tree/main/DA_XYZFinancialssecurities">Architecture : Data Architecture : Mortgage Lending & Servicing Data Schema</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Architecture : Data Architecture : Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
-<li><a href="https://github.com/spusgh/Db-Scripts">Databases : NoSQL Databases, Vector Databases, Geospatial Databases, Distributed SQL / MPP Databases, Relational Databases (RDBMS), Data Lake / Storage Engines (database‑like), Data Models </a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Data Lake / Storage Engines (database‑like) : Azure Data Lake Storage (ADLS), Apache Hadoop (HDFS)</a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Data Models </a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Distributed SQL / MPP Databases : Apache Hive, Apache Impala, Azure Synapse (SQL Pools), PrestoDB (federated SQL query engine, often used as a DB layer), Snowflake </a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Event/Stream Systems : Apache Kafka, Apache Flink, Apache Spark, Apache Storm</a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Geospatial Databases : Cassandra with GeoMesa, Google BigQuery GIS (SQL + geospatial functions), HBase with GeoMesa, MongoDB (native geospatial indexing), Oracle Spatial & Graph, PostGIS (PostgreSQL extension), Spatialite (SQLite geospatial extension)</a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : NoSQL Databases : Amazon DynamoDB, Azure CosmosDB, Cassandra, HBase, MongoDB Atlas</a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Relational Databases (RDBMS) : Azure SQL, MySQL, MS SQL BI (SQL Server ecosystem), MS SQL Server, Oracle Database, PostgreSQL </a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : Vector Databases : ChromaDB, Elasticsearch (supports vector search; hybrid search engine + DB), Milvus, Pinecone, Qdrant, Redis Vector (Redis with vector search module), Weaviate </a><br/>
 <li><a href="https://github.com/spusgh/EnterpriseDeliveryOperatingModel">Enterprise Delivery Operating Model (EDOM)</a> <br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts/tree/main/ML-DrivenAuto-ProvisioningEngine">IaaS : ML- Driven Auto- Provisioning Engine</a><br/>
