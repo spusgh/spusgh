@@ -91,7 +91,7 @@
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/AngularRustLoanManagement"> Angular PostgreSQL Rust - Loan Search Application</a></li>
 <li><a href="https://github.com/spusgh/Architecture/tree/main/DA_XYZFinancialssecurities">Architecture : Data Architecture : Mortgage Lending & Servicing Data Schema</a></li>
 <li><a href="https://github.com/spusgh/Db-Scripts/tree/main/DbModels">Architecture : Data Architecture : Data Models : Mermaid : MS Power Platform Loan Ecosystem </a><br/>
-<li><a href="https://github.com/spusgh/Db-Scripts">Databases : MS SQL, MongoDB, Azure CosmosDB</a><br/>
+<li><a href="https://github.com/spusgh/Db-Scripts">Databases : NoSQL Databases, Vector Databases, Geospatial Databases, Distributed SQL / MPP Databases, Relational Databases (RDBMS), Data Lake / Storage Engines (database‑like), Data Models </a><br/>
 <li><a href="https://github.com/spusgh/EnterpriseDeliveryOperatingModel">Enterprise Delivery Operating Model (EDOM)</a> <br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts">IaaS : IaaS + IaC + SaaS Blended Stack</a> <br/>
 <li><a href="https://github.com/spusgh/IaaS-Scripts/tree/main/ML-DrivenAuto-ProvisioningEngine">IaaS : ML- Driven Auto- Provisioning Engine</a><br/>
