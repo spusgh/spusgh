@@ -120,7 +120,7 @@
 <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/AI-PoweredDeveloperExperiencePlatform">PaaS : AI-Powered Developer Experience Platform</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/Data-DrivenFeatureFlagSystem">PaaS : Data-Driven Feature Flag System</a> <br/>
 <li><a href="https://github.com/spusgh/PaaS-Scripts/tree/main/Self-HealingInfrastructurePlatform">PaaS : Self-Healing Infrastructure</a> <br/>
-<li><a href="https://github.com/spusgh/Platform-Applications/tree/main/NextGenDataIntelligencePipeline">Platform-Applications : NextGen Data Intelligence Pipeline (NDIP) MVP>/a>
+<li><a href="https://github.com/spusgh/Platform-Applications/tree/main/NextGenDataIntelligencePipeline">Platform-Applications : NextGen Data Intelligence Pipeline (NDIP) MVP </a>
 <li><a href="https://github.com/spusgh/SaaS_Apps/tree/main/VibeCoding/RRustLoanDataAnalysis"> R Rust - Loan Portfolio Analysis & Search System</a></li>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/JSLibs">Reports : Data Visualizations JSLibraries</a><br/>
 <li><a href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/MS%20Power%20BI">Reports : MS Power BI</a><br/>
